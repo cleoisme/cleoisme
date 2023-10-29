@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there 👋🏻
 
-<!--
-**cleoisme/cleoisme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Cleo, a Software Engineer in North America. Github is my programming playground and greetings to my fellow Engineers! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ I like Engineering, with its core principles of Piscipline, Rigor and Practicality. 
+- 💻 Getting abstract concepts off the ground is fulfilling and meaningful to me.
+- ✨ I believe in Conpound Learning, and an open mindset is a must-have.
+- 🔭 I’m currently working on a fullstack Content Management System (CMS) using React and Django.
+- 📫 How to reach me: [Contact me](https://cleoisme.github.io/contact/)
+- 💎 [Resources](https://cleoisme.github.io/resources/) I have been collecting for CS Fundamentals, Job Hunting, Industrial Practices and more!
+- 🍭 Fun facts: Ask me in person, I have too many.
+- 🪨 Boring facts: [Linkedin](https://www.linkedin.com/in/cleo-zhang/).
